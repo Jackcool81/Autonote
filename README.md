@@ -1,16 +1,9 @@
-# this_is_a_project
+# Autonote
 
-it is a project
+This is a project I worked on with a student using flutter. The app is designed to take in audio convert it into ui text then parse through the text pulling out math keyterms. The app has been published to both the google play store and ios. 
 
-## Getting Started
+https://play.google.com/store/apps/details?id=com.cassonQuin.voiceNotes
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
